@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0A7B27C61F9F1682003F950E"
+               BlueprintIdentifier = "2666FD831CCE457C005E81CE"
                BuildableName = "RxBluetoothKit.framework"
-               BlueprintName = "RxBluetoothKit watchOS"
+               BlueprintName = "RxBluetoothKit"
                ReferencedContainer = "container:RxBluetoothKit.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2666FD831CCE457C005E81CE"
+            BuildableName = "RxBluetoothKit.framework"
+            BlueprintName = "RxBluetoothKit"
+            ReferencedContainer = "container:RxBluetoothKit.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,9 +54,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0A7B27C61F9F1682003F950E"
+            BlueprintIdentifier = "2666FD831CCE457C005E81CE"
             BuildableName = "RxBluetoothKit.framework"
-            BlueprintName = "RxBluetoothKit watchOS"
+            BlueprintName = "RxBluetoothKit"
             ReferencedContainer = "container:RxBluetoothKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -63,9 +72,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0A7B27C61F9F1682003F950E"
+            BlueprintIdentifier = "2666FD831CCE457C005E81CE"
             BuildableName = "RxBluetoothKit.framework"
-            BlueprintName = "RxBluetoothKit watchOS"
+            BlueprintName = "RxBluetoothKit"
             ReferencedContainer = "container:RxBluetoothKit.xcodeproj">
          </BuildableReference>
       </MacroExpansion>

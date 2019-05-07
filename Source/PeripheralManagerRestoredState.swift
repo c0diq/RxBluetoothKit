@@ -1,3 +1,4 @@
+#if os(iOS)
 import Foundation
 import CoreBluetooth
 
@@ -27,3 +28,4 @@ public struct PeripheralManagerRestoredState {
         return restoredStateData[CBPeripheralManagerRestoredStateAdvertisementDataKey] as? [String: AnyObject]
     }
 }
+#endif

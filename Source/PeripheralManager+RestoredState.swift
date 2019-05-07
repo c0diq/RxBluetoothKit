@@ -1,3 +1,4 @@
+#if os(iOS)
 import Foundation
 import RxSwift
 import CoreBluetooth
@@ -59,3 +60,4 @@ extension PeripheralManager {
             })
     }
 }
+#endif

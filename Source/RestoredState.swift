@@ -1,3 +1,4 @@
+#if os(iOS)
 import Foundation
 import CoreBluetooth
 
@@ -20,3 +21,4 @@ public struct RestoredState: CentralManagerRestoredStateType {
         self.centralManagerRestoredState = centralManagerRestoredState
     }
 }
+#endif

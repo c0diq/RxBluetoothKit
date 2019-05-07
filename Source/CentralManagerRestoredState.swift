@@ -1,3 +1,4 @@
+#if os(iOS)
 import Foundation
 import CoreBluetooth
 
@@ -64,3 +65,4 @@ public struct CentralManagerRestoredState: CentralManagerRestoredStateType {
                                         service: $0) }
     }
 }
+#endif
